@@ -1,0 +1,5 @@
+1.Git fue creado por  Linus Torvalds con el propósito es llevar registro de los cambios en archivos
+ de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+2.Pertenece a Microsoft ya que en 2018 compró respectivamente la compañía por un importe de más de 7000 millones de dólares.
+3.Si.Existen diferentes extensiones,sofware para trabajar en gitHub. hasta se podria realiza manualmente mediante el uso por ejemplo d ependrives, aunoque no es recomendable.
+
