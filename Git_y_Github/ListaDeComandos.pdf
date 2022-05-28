@@ -1,0 +1,31 @@
+
+Lista de comandos vistos en clase:
+
+Pwd: Ver donde estoy completamente.
+Ls: Muestra todo lo que hay de carpetas.
+Ls -R: Muestra todo lo que hay en las carpetas y todos sus archivos.
+mv: si se nombre el archivo, espacio y otro nombre que no exista, se renombra.
+mv: si se nombra el archivo y se nombra una carpeta, se mueve a esa carpeta.
+Rm: elimina archivo.
+Rmdir: elimina carpeta
+Rm -R: elimina archivo directamente de la carpeta
+mkdir: crear carpeta.
+Touch: crear archivo con extencion.
+nano: Abre el panel grafico para editar el contenido del archivo.
+cd (nombre de la carpeta): ingresa a una carpeta
+cd .. : Vuelve atras en las carpetas.
+
+git init: inicia un repositorio
+git add .: añade al stage todo lo creado
+git commit -m "Nombre del commit": añade un commit y guarda todo el proceso hasta ahi
+git branch: muestra las ramas y donde estoy ubicado.
+git branch -m Nombreviejo nombre nuevo: Cambia nombre de rama.
+git clone: Clona el repositorio de la nube.
+git push -u origin "nombre de la rama": sube el contenido a la rama en el github
+git push: sube el contenido cuando el anterior comando ya se hizo de primero.
+git pull: actualiza el contenido de la nube a nivel local.
+git checkout nombrerama: Crea y te lleva a la rama que estas creando o te mueve a una rama ya creada
+git log: te muestra los commits hechos.
+git config user.name: para poner el nombre de usuario de github y saber de quien son las madificaciones.
+git config user.email: lo mismo pero con el email
+
