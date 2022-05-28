@@ -8,4 +8,4 @@ B- ¿A quién pertenece actualmente Github y por qué?
 Github pertenece actualmente Microsoft, ya que lo compró el 4 de junio de 2018.
 
 C- ¿Hay otra forma que no sea la terminal para trabajar con Github?
-No, solamente a traves de la terminal.
+Si, existen ciertos programas y extensiones con los cuales se puede, como por ejemplo: Source tree, Git lens, etc.
