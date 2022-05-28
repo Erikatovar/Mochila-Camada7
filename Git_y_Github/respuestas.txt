@@ -1,0 +1,5 @@
+a. Git fue desarrollado por Linus Torvalds y fue ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios.
+
+b. GitHub pertenece a Microsoft porque lo ha comprado en 2018
+
+c. No, la unica forma de utilizar GitHub ccon todas sus funciones es a traves de la terminal
