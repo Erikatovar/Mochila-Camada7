@@ -1,0 +1,12 @@
+añadir todos los archivos de una carpeta
+git add .
+
+crear rama, nombrarla y situarnos en ella
+git checkout -b +  "nombre de rama"
+
+inicializar repositorio local
+git init
+
+subir contenido ya commiteado al repositorio remoto
+git push -u origin "nombre de rama"
+
