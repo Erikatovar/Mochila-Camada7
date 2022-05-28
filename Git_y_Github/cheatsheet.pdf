@@ -1,0 +1,11 @@
+Crear
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Crear un nuevo repositorio local
+$ git init
+
+Sincronizar repositorio local con remoto
+$ git remote add origin http://...
+
+
