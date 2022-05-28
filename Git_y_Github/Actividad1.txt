@@ -1,0 +1,6 @@
+a) ¿Quién inventó el sistema de control de versión de Git y por qué?
+    Fue diseñado por Linus Torvalds.
+b) ¿A quién pertenece actualmente Github y por qué?
+    Es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
+c) ¿Hay otra forma que no sea la terminal para trabajar con Github?
+    Si, se puede trabajar desde VS Code.
