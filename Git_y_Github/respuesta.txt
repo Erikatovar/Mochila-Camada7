@@ -1,0 +1,3 @@
+a. Desarrollado en 2005 por Linus Torvalds precisamente para la creación del Kernel de Linux, hoy se utiliza para diseñar cualquier sitio web, software o código de forma rápida e inteligente. Pero el recurso que hace que esta herramienta sea tan útil y práctica es el sistema de control de alteraciones.
+b. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+c. Si, desde la misma pagina de Github.com.
