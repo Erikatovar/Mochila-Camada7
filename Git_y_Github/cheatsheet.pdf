@@ -1,0 +1,25 @@
+// Desde local hacia el remoto
+
+git init -> inicializar workspace
+git config user.name -> configurar nombre de nuestra cuenta
+git config user.mail -> configurar mail de nuestra cuenta
+git add . -> llevar TODOS (.) los archivos a la 2da fase (tracked)
+git commit -n "nombre del commit" ->  enviar los archivos en 2da fase a nuestra rama (3ra fase)
+git log -> ver historial de commits
+git branch -> ver rama
+git remote add origin url -> crear nuevo repositorio en nuestro github
+git push -u origin main -> enviar rama "main" al repositorio remoto
+-- en caso de querer crear una rama
+git checkout -b nombreRama -> crear y moverme a una nueva rama
+git push -u origin nombreRama -> enviar nueva rama al repositorio remoto
+
+// Desde remoto hacia el local
+
+git clone url -> clonar repositorio remoto en la carpeta donde estemos situados
+ls -> listar y saber las carpetas donde me encuentro
+cd nombreCarpetaClonada -> cambio de directorio
+--NO HACER "GIT INIT"
+git config user.name -> configurar nombre de nuestra cuenta
+git config user.mail -> configurar mail de nuestra cuenta
+git checkout -b nombreRama -> crear y moverme a una nueva rama
+
