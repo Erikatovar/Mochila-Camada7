@@ -1,0 +1,14 @@
+A: ¿Quién inventó el sistema de control de versión Git y por qué?
+B: ¿A quién pertenece actualmente Github y por qué?
+C: ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+A: Git es un sistema de control de versiones distribuido. Esto significa que un clon local del proyecto es un repositorio de control de versiones completo. 
+Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota fácilmente
+Lo desarrolló originalmente Linus Torvalds.
+
+B: El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares, microsoft es dueño de Git Hub,
+ ellos han manifestado que esta adquisicion la hicieron pensando en una estrategia nueva, 
+que consiste  en ser mas abierta al mundo del software libre y la integracion con nuevas plataformas y servicios.
+
+
+C:Si se puede trabajar mediante la pagina oficial de Github.
