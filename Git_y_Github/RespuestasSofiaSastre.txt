@@ -9,4 +9,4 @@ código.
 Desde el 4 de junio del 2018, Git es propiedad de Microsoft. 
 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
-si, desde la misma página de github
+si, desde la misma página de github.
