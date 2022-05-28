@@ -1,0 +1,30 @@
+//desde local hacia el remoto 
+
+git init 
+git config user.name 
+git config user.email
+git add . 
+git commit -m "nombrecommit"
+git log 
+git branch
+git remote add origin + url
+git remote -v 
+git push -u origin main 
+ // si queremos crear una rama
+git checkout -b + nombreRama2
+git push -u origin nombreRama2
+
+git branch -m viejoNombre nuevoNombre
+
+
+
+//desde github hacia el local 
+
+Crear un repo nuevo incluyendo archivo 
+git clone + url 
+ls
+cd nombreCarpetaClonada
+--NO hacer git init 
+git config user.name 
+git config user.email
+git checkout -b + nombreRama2
