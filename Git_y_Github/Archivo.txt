@@ -1,0 +1,8 @@
+1)- Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente
+ Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005 porque se quería
+  posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y 
+  las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión).
+
+2)- GitHub pertenece a Microsoft porque fue comprado en 2005 por la empresa.
+
+3)- Se puede trabajar con GitHub a través de su portal. 
