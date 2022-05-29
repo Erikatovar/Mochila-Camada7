@@ -1,0 +1,33 @@
+GITHUB
+Como subir un repositorio 
+Git remote add origin + URL(Es la url del nuevo repositorio que creamos en github) 🡪 va a cargar mi repositorio local a github
+Como clonar un proyecto a mi local
+Git clone + URL 🡪 genera una copia del repositorio remoto a mi local, solo se ejecuta una vez, cuando aún no tenemos el proyecto en nuestra local.
+Aclaración: cuando bajamos el repositorio queda en una carpeta más baja de donde la guardo. Ejemplo: guardo el nuevo proyecto en una carpeta de mi PC llamada Proyecto_nuevo, dentro de esta carpeta se va a guardar la carpeta Proyecto_X con todos los archivos. Para trabajar en el proyecto deberé ingresar en Proyecto_X, en la terminal debe aparece el nombre de la rama.
+
+Actualización del local con el remoto
+Git pull / Git pull origin master 🡪 Si el repositorio remoto ya está en nuestra local, con pull bajamos los cambios que se hayan realizado. Es recomendable hacer pull cada vez que empecemos a trabajar en el proyecto.
+Git push origin master / git push 🡪 para cargar mis cambios a la rama master o main
+Resolución de conflictos
+En el mensaje de error muestra donde se está generando el/los conflictos.
+Cuando vamos al detalle lo que aparece después de <<<<<< HEAD son los cambios que yo realice, lo que aparece después de ======  son los cambios que mi compañero realizo.
+Podemos dejar solo nuestros cambios, los de mi compañero o dejar los dos.
+Aclaración: si lo hacemos manual debemos eliminar los signos agregados por git.
+Luego de resueltos los conflictos debemos hacer nuevamente ADD, COMMIT Y POR ÚLTIMO PUSH 
+Ramas/Branch
+Una branch funciona como un espacio de trabajo solo para nosotros, para que guardemos nuestros cambios y hagamos pruebas, hasta que estemos seguros y solicitemos que aprueben nuestros cambios, osea que lo suban a la rama principal (main o master).
+Una rama es una línea de desarrollo que tiene como base la rama principal, pero los cambios que hagamos en nuestra rama no modificara la rama principal.
+Git branch 🡪 enumera todas las ramas existente en un repositorio 
+Git branch + nombre_rama 🡪 crea una nueva rama
+git checkout  -b + nombre_rama → nos crea y mueve a la nueva rama
+Eliminar ramas local
+Con estos comando elimino la rama del local, si esa misma rama la tengo en el repo remoto lo tengo que eliminar también.
+Git branch –d + nombre_rama 🡪 elimina una rama con ese nombre, pero solo si no tiene cambios sin fucionar
+Git branch –D + nombre_rama 🡪 elimina la rama, sin importar si tiene cambios sin fucionar
+Eliminar rama remota
+git push origin --delete + nombre_rama
+Para moverme a otra rama
+Git checkout + nombre_rama 🡪 para movernos entre ramas
+
+Cambiar nombre de la rama principal de forma global
+git config --global init.defaultBranch main
