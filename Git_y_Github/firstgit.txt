@@ -1,5 +1,5 @@
 ¿Quién inventó el sistema de control de versión Git y por qué?  Linus Torvalds, el famoso creador del kernel del sistema operativo Linux. Algunos de los objetivos del nuevo sistema fueron los siguientes:
-
+vv
     Velocidad
 
     Diseño sencillo
