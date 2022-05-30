@@ -1,0 +1,6 @@
+git init (inicio un repositorio)
+git config user.name (configuro mi usuario
+git config user.email 
+git add . /agrego todos los archivos al repositorio)
+git commit -m "nombrecommit" (hago mit)
+git log (muestra los comits)
