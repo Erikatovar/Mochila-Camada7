@@ -1,0 +1,60 @@
+//desde local hacia el remoto 
+
+Inicializar un repositorio local
+git init 
+
+Configurar el usuario y el email del vscode
+git config user.name 
+git config user.email
+
+Agrear archivos a la instancia stage
+git add . 
+
+Commitear los archivos agregados
+git commit -m "nombrecommit"
+
+Hacer un log para ver los commits
+git log 
+
+Ver las ramas existentes y en cual estas parado
+git branch
+
+Vincular el repositorio local con el remoto
+git remote add origin + url
+
+Ver a que repositorio se esta vinculado
+git remote -v 
+
+Pushear los cambios a la rama main
+git push -u origin main 
+ 
+// si queremos crear una rama
+git checkout -b + nombreRama2
+
+Pushear los cambios a otra rama
+git push -u origin nombreRama2
+
+Cambiar el nombre de una rama
+git branch -m viejoNombre nuevoNombre
+
+
+
+//desde github hacia el local 
+    --NO hacer git init
+
+    Crear un repo nuevo incluyendo archivo 
+    - git clone + url 
+    
+    Listar archivos y carpetas
+    - ls 
+    
+    Entrar en la carpeta del repositorio clonado
+    - cd nombreCarpetaClonada
+ 
+    Configurar el usuario y el email usado en el vscode
+    - git config user.name 
+    - git config user.email
+
+    Crear una rama 
+    - git checkout -b + nombreRama2 
+
