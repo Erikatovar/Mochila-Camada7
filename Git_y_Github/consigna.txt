@@ -1,0 +1,6 @@
+1.Git es un es un software de control de versiones diseñado por Linus Torvalds, 
+el famoso creador del kernel del sistema operativo Linux.
+Su propósito es llevar registro de los cambios en archivos de computadora incluyendo
+coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+2.Github pertenece actualmente Microsoft, ya que lo compró el 4 de junio de 2018.
+3.Si, existen ciertos programas y extensiones con los cuales se puede, como por ejemplo: Source tree, Git lens, etc.
