@@ -1,0 +1,31 @@
+GIT cheat sheet
+
+git init (comando para crear la carpeta de repositorio local)
+git config user.name "nombredeusuario" (comando para crear el nombre de usuario
+git config user.email "emailconfigurado" (comando para crear el correo asociado al usuario)
+git add (comando para agregar archivos)
+git add . (commando para agregar TODOS los archivos al repositorio)
+git status (comando para verificar el estado de los archivos en el repositorio)
+git log(comando que registra historial de los cambios en los proyectos)
+ojo para crear un commit tengo que haber agregado previamente los archivos al repositorio y posterior se ejecuta el comando: 
+git commit -m " mensaje de resumen de modificación del texto"
+git restore "archivo" es como un control z antes de adherir
+git restore --stage"archivos es el control z después de add pero sin comitar aun
+git log --oneline (comando para que el los salga corto)
+git branch (comando para verificar las ramas)
+git checkout (comando para movernos entre commits)
+git switch --help (comando que abre un chrome con mas comandos)
+git remote add origin ( link de GitHub) Ejemplo link: https://github.com/caromurto/INTRODUCCIONCTD.git
+git remote -v (me pasa la url del repositorio que creo en Git Hub)
+git push origin main o git push (subir archivos al GitHub)
+git push -u origin "rama" (establecer la rama con el push para que cada vez que se haga un git push automáticamente suba los archivos modificados a esa rama)
+git clone url de carpeta a clonar(descargar archivos de Github)
+git branch -m "main"( comando para cambiar el nombre de la rama)
+git branch "nombre de la rama"(comando para crear una rama, el nombre va sin las comillas)
+git switch -c "nombre de la rama"(comando para crear y pasar a la rama creada -sin comillas)
+git checkout -b "nombre rama" (comando para crear y pasar a la rama creada- sin comillas)
+git checkout  "nombre rama" (comando para pasar entre ramas)
+git branch -d nombre de la rama (comando para eliminar una rama, cuando ya se ha unido a otra rama se debe usar el -D en mayúscula)
+git push origin --delete "nombre de la rama eliminada"
+git config --global init.defaultBranch main (comando para definir main como rama principal para que de ahora en adelante todas sean con main)
+git pull origin main (baja los cambios que están en mi GitHub que hayan hecho mis compañeros de proyecto)
