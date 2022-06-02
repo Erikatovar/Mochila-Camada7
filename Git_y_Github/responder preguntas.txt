@@ -1,0 +1,3 @@
+1 -Git es un software de control de versiones diseñado por Linus Torvalds.Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+2- A partir del año 2018, github fue comprado por microsoft , culpa de el siguiente acontecimiento,El 28 de febrero , GitHub fue víctima del segundo mayor ataque de denegación de servicio (DDoS) de la historia. Llegando a recibir un tráfico de 1.35 terabits por segundo,hasta el dia de la fecha pertenece a microsoft quien pudo solucionar el conflicto.
+3-En mi opinion personal, creo que github no solo se puede usar por terminal,sino que tambien, se pueden realizar modificaciones desde la pagina web . 
