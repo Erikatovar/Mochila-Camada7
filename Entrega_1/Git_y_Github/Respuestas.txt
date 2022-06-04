@@ -1,6 +1,0 @@
-1 - Linus Torvalds
-2 - Microsoft, porque lo compró
-3 - Hay un monton de interfaces graficas, como por ejemplo SoruceTree, incluso extensiones para adicionar al vscode, las cuales nos permiten trabajar desde ahí
-
-Gracias !
-
