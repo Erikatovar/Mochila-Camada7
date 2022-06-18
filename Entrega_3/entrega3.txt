@@ -1,0 +1,5 @@
+1) Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo.
+2) VirtualBox soporta: Microsoft Windows, Linux, Solaris, BSD, IBM OS/2, Mac OS X, Genode, OpenSolaris, etc.
+3) Conocido tambien como monitor de maquinas virtuales, un hipervisor es un proceso que crea y ejecuta maquinas virtuales. Ademas, permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido visual de sus recursos, como la memoria y el procesamiento.
+4) No, no afecta, ya que cada maquina virtual es independiente de las otras instaladas.
+
