@@ -1,0 +1,9 @@
+1-Por que un lenguaje de programacion solo puede utilizarce en algunos sistemas operativos y en otros no
+2-Que tipo de maquina virtual soporta virtualbox?
+3-Que funcion cumple el hypervisor en la actualizacion?
+4- Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta las demas? Por que?
+
+1-Para que un lenguaje pueda usarse en un sistema operativo siempre y cuando haya un interprete o compilador.
+2-Virtualbox soporta GNU/Linux, MasOS, OS/2 Warp, Genode, Windws,y Solaris/Open Solaris.
+3-Permite que el ordenador host preste soporte a varias maquinas virtuales nvitadas, mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+4'Si una maquina virtual se rompe no afecta a las demas ya que son sistemas separados que no comparten datos.
