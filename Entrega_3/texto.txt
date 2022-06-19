@@ -1,0 +1,14 @@
+2- Que tipo de maquinas virtual soporta virtualBox?
+     VirtualBox es multiplataforma ya que soporta windows, linux, FreeBSD y Linux
+
+3-Que funcion cumple el hipervisor en la virtualización?
+
+Un hipervisor, conocido también como monitor de máquina virtual, es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+Cuando el sistema de hardware físico se usa como hipervisor, se denomina "host", y las múltiples máquinas virtuales que utilizan sus recursos se denominan "guests".
+El hipervisor utiliza los recursos, como la CPU, la memoria y el almacenamiento, como un conjunto de medios que pueden redistribuirse fácilmente entre los guests actuales o en las máquinas virtuales nuevas.
+Todos los hipervisores necesitan algunos componentes a nivel del sistema operativo (por ejemplo, el administrador de memoria, el programador de procesos, la pila de entrada o salida (E/S), los controladores de dispositivos, el administrador de seguridad, la pila de red y más) para ejecutar las máquinas virtuales.
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos. El hardware físico sigue efectuando las operaciones, por lo que la CPU aún ejecuta las instrucciones de la CPU según lo solicitado por las máquinas virtuales; por ejemplo, mientras el hipervisor gestiona la programación.
+
+4 -  Si tengo mas de una masquina virtual instalada, y una se rompe, esto afecta a las demas? ¿Por que?
+Las maquinas virtuales instaladas son independientes una de las otras, si una se rompe no afecta a las
+demas.
