@@ -1,6 +1,6 @@
 RESPUESTAS DESDE LINUX EN LA VIRTUALBOX - EDUARDO PEREZ DANDERFER
 
-1. ¿Por qué un lemguaje de programación sólo puede utilizarse en algunos S.O y emn otros no?
+1. ¿Por qué un lemguaje de programación sólo puede utilizarse en algunos S.O y en otros no?
 
 Porque un lenguaje de programación compila a un lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de dos cosas:
 
