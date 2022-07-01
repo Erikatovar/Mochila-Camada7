@@ -1,0 +1,23 @@
+Velocidad en opera sin vpn:
+	DESCARGA: 26.60 mbps
+ 	SUBIDA: 7.83 mbps
+	Ping :207 ms
+
+Velocidad en opera con vpn:
+	DESCARGA :1.50 mbps
+ 	SUBIDA :8.53 mbps
+	Ping : 226 ms
+
+Velocidad en Tor:
+	Descarga : 5.18 mbps
+	Subida : 6.08 mbps
+	Ping : 520 ms
+
+¿Las velocidades en los test son diferentes? ¿Po qué crees que sucede esto?
+	Si,son dferente porqrue cada una realiza distintos caminos 
+
+¿Que significa el valor del ping?
+	Es la medida que se ocupa para medir la latencia y es expresado en milisegundos   
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+	varia porque cada opcion tiene distintas velocidades	
