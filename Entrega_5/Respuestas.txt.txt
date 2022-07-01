@@ -1,0 +1,48 @@
+s/VPN
+Tu dirección IP es 200.127.41.144 
+Pais: Argentina
+
+Opera c/VPN
+Tu dirección IP es 77.111.246.40
+Pais: United States
+
+TOR
+Tu dirección IP es 185.14.97.176
+Pais: Anonymous Proxy
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, porque cada VPN me reasigna otra IP.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No, sin VPN no puedo verlo, porque es un video que esta restrigido por geolocalizacion, con el VPN al cambiarme la IP a una de EEUU me habilita a verlo.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+No, no la localiza.
+
+Sin VPN
+Velocidad subida: 4.10
+Velocidad Bajada: 48.28
+PING: 31
+
+TOR
+Velocidad subida: 13.32
+Velocidad Bajada: 13.18
+PING: 550
+
+OPERA c/VPN
+Velocidad subida: 9.95
+Velocidad Bajada: 1.14
+PING: 209
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si, son diferentes, sucede porque usa el proveedor de internet al que me cambia el VPN.
+
+¿Que significa el valor del ping?
+Hace referencia a la unidad de medida de la latencia.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Varia el ping ya que tienen geolocalizacion distintas las IP que el VPN nos asigna. 
+
+
+
+
