@@ -1,0 +1,41 @@
+ENTREGABLE 3:
+
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Para pasar del código que estamos escribiendo a un código que la maquina entienda necesitamos de la compilación, la misma es como una traducción que toma todo el código fuente y lo transforma en el programa ejecutable escrito en código máquina, listo para ser ejecutado en nuestros dispositivos. 
+El ejecutable debería poder ejecutarse correctamente siempre y cuándo la maquina dónde se compile sea similar a donde se ejecute, es decir tener similar arquitectura de CPU y sistema operativo similar. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr. 
+ 
+
+¿Qué tipo de máquina virtual soporta VirtualBox?
+
+Maquinas virtuales de sistema. 
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. Es decir que si tengo una computadora por ejemplo con Windows, dentro de la misma puedo crear una máquina virtual con otro sistema operativo para utilizarlo dentro de mi computadora.  
+Los sistemas más relevantes que podemos visualizar sin problema son:
+- Windows
+- Ubuntu
+- Debian
+- SUSE / OpenSUSE
+- Fedora
+- Oracle Linux
+- RHEL
+- Arch Linux
+- Solaris
+- Mas OS X Server 
+- FreeBSD
+- DOS
+- FreeDOS
+- OS/2
+ 
+
+¿Qué función cumple el hypervisor en la visualización?
+
+La virtualización ofrece posibilidaden tecnológicas totalmente nuevas. En lugar de volver a crear un siste completo (incluido el hardware y el sistema operativo basado en él), simplemente se obtiene una versión virtual del mismo, una especie de entorno simulado a imagen y semejanza del sistema de origen.
+Esta tecnología se utiliza en el desarrollo de software para crear un entorno de prueba seguro.
+El primer requisito de la virtualización es configurar una maquina virtual en un sistema físcio real. Entre el nivel virtual y el nivel físico, también debe haber una instancia que los conecte sin verse demasiada influida por ambos.Esta capa abstracta se denomina hipervisor y sirve de intermediaria entre los dos niveles. 
+El hipervisor es el medio para la virtualización.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto adecta a las demás? ¿por qué?
+
+No, si una maquina virtual se rompe las demas no se veran afectadas ya que cada maquina virtual es independiente y está aislada de las demás.
+
