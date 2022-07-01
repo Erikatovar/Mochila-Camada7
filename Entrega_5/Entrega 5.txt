@@ -1,0 +1,65 @@
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+IP: 45.228.189.76 
+
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+IP CON VPN:162.218.229.82 
+País: United States
+
+
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.
+IP con TOR: 144.172.118.139	 
+País: Anonymous Proxy
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+No son las misma IP poruque al usar la VPN nos conectamos a una red privada remota y navegamos de forma segura ccambiando nuestra IP, y ademas ecripta los datos.
+
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Al parecer el video esta bloqueado para Argentina o dispnible  solamente para USA (Bloqueado por geolocalización). 
+
+
+Utilizando Tor ¿pudimos localizar la IP?
+SI es: 144.172.118.139
+
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+DOWNLOAD Mbps
+32.63
+ UPLOAD Mbps
+16.25
+Ping ms  3  25  5
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+DESCARGA Mbps
+10.03
+ SUBIDA Mbps
+2.57
+Ping ms  401  399  402 
+
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+Download Mbps
+2.02
+Upload Mbps
+0.63
+Ping ms 450 1220 --
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Las velocidades son distintas, porque usa el proveedor de internet que usa el vpn o tor.
+
+
+¿Que significa el valor del ping?
+El ping es una unidad de medida que sirve para medir la latencia.
+La latencia es el tiempo que tarda en transmitirse un paquete de datos dentro de la red.
+
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Porque tiene que viajar hasta la ubicacion de mi nueva ip segun tor o el vpn.
+
