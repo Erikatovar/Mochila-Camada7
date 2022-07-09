@@ -1,20 +1,26 @@
-IP
+﻿IP
 ¿Las ip públicas son las mismas? ¿por qué?
 Las IP son diferentes, dado que distan respecto de la geolocalización. Por ejemplo con el navegador Opera sin VPN y con VPN nos dan direcciones diferentes y con el TOR nos arroja una IP diferente al de Opera pero en este caso no nos permite establecer la geolocalización.
+
 
 Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
 En el navegador Opera sin la VPN no permite visualizar el video, con la VPN si se puede reproducir. 
 
+
 Utilizando Tor ¿pudimos localizar la IP ?  
 Si pudimos localizar la IP, no la geolocalización.
+
 
 Test de velocidad
 ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
 Las velocidades son diferentes, siendo más alta sin la VPN esto sucede dado que Cuando hacemos uso de una conexión VPN, nuestro tráfico en vez de viajar directamente desde nuestra computadora al destino, sufre un desvío y se ve afectado por diferentes retardos y saturaciones que hacen que la velocidad se reduzca drásticamente.
 
+
 ¿Que significa el valor del ping?
 
+
 El ping es una unidad de medida que sirve para medir la latencia y se expresa en milisegundos.
+
 
 El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
 Si varía, si el ping es mas bajo es mas rapida la conexion a internet. Esto se debe a que los datos viajan directo desde nuestra computadora al destino, sin desvios.
