@@ -1,0 +1,27 @@
+Entrega 5 - Intro a la informatica - Uriburu
+
+Dirección IP: 192.168.0.11.
+
+Geolocalización IP Publica TOR: Oude Meer, Netherlands.
+
+
+1) Las IP publicas son las mismas siempre que el ISP y el router sean el mismo. Al usar VPN, el ISP cambia, por lo que la IP publica cambia respectivamente.
+
+2) Sin utilizar la VPN no se puede ver el video, pero al activarla si. Esto sucede ya que el video tiene restricción de país (Solo para Países Bajos). Al activar la VPN, nos brinda una IP Publica con localización en este país por lo que podemos ver el video tranquilamente.
+
+3) Sí, pudimos. La dirección publica es: 2.58.56.101.
+
+
+Prueba de velocidades
+
+1) Descarga: 7.91 Mbps Subida: 23.73Mbps PING 33
+2) Descarga: 1.19Mbps Subida: 11.15Mbps PING 334
+3) Descarga: 10.47Mbps Subida: 1.96Mbps PING 570
+
+
+
+- Sí, las velocidades son diferentes. Esto es a causa de las distancias entre cliente e ISP al usar o no VPN.
+
+- Ping: utilidad de diagnostico en redes de computadoras que comprueba el estado de la comunicación del anfitrión local con uno o varios equipos remotos de una red que ejecuten IP.
+
+- El Ping varia en base al tiempo que tardan en comunicarse tu conexión local con un equipo remoto en la red. Al usar VPN, estos tiempos pueden aumentar dependiendo de dónde se sitúe el ISP al que nos conectamos.

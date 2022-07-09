@@ -1,0 +1,11 @@
+Entrega 2 - Intro a la Informática - Uriburu
+
+
+1. Que es un usuario root en Linux?
+
+Es un usuario con acceso de tipo administrativo al sistema. Dispone de todo permiso y privilegio    para llevar a cabo acciones sobre el sistema. Tal "super usuario" es necesario para poder ejecutar determinados comandos.
+
+
+2. Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+
+En Ubuntu, la cuenta raíz no contiene una contraseña establecida o predeterminada. Lo que se recomienda, es utilizar el comando "sudo" para ejecutar comandos con privilegios de nivel raíz.
