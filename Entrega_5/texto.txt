@@ -1,0 +1,24 @@
+1. Dirección IP Pública SIN VPN: 200.117.179.241
+2. Dirección IP Pública CON VPN: 51.15.212.225 y Geolocalización en Francia
+3. Dirección IP Pública  TOR: 185.220.101.12
+4. Geolocalización IP Pública TOR: Anonymous Proxy
+
+
+1) Las IP públicas son las mismas siempre que el ISP y el router sean el mismo. Al usar VPN, el ISP cambia, por lo que la IP pública cambia respectivamente.
+
+
+2) Sin utilizar la VPN no se puede ver el video, pero al activarla sí. Esto sucede porque el video tiene restricción de país (Solo para holanda). Al activar la VPN, nos brinda una IP pública con 
+localización en este país por lo que podemos ver el video tranquilamente.
+
+
+3) Si, pudimos. 
+
+1)SIN VPN: Descarga 249.51. Subida 31.00 Ping 19ms
+2)CON VPN: Descarga 0.72. Subida 6.46 Ping 240ms
+3)CON TOR Y SU RED ACTIVADA: Descarga 4.44. Subida 8.77. Ping 640ms
+
+
+Si, las velocidades son diferentes. Esto es debido a las distancias entre cliente e ISP al usar o no VPN.
+Ping: utilidad de diagnóstico en redes de computadoras que comprueba el estado de la comunicación del anfitrión local con uno o varios equipos remotos de una red que ejecuten IP.
+El ping varía en base al tiempo que tardan en comunicarse tu conexión local con un equipo remoto en la red. Al usar VPN, estos tiempos pueden aumentar dependiendo de donde se situe el ISP al que nos 
+conectamos.
