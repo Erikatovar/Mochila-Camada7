@@ -1,0 +1,3 @@
+a. Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+b.El propietario es Microsoft,porqu es la plataforma más importante de colaboración para proyectos de código abierto.
+c.Si hay otras formas, a traves de Git Desktop.
